@@ -1,0 +1,10 @@
+package java;
+
+public class car
+{
+    public static void main(string [] args)
+    {
+        system.out.println("Hello Car");
+         
+    }
+}
